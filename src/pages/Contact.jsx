@@ -29,7 +29,7 @@ export default function Contact() {
               <ContactRow icon={Phone} label="Call" value="406-587-6103" href="tel:4065876103" />
               <ContactRow icon={Mail} label="Email" value="sales@darkhorseoutfitters.com" href="mailto:sales@darkhorseoutfitters.com" />
               <ContactRow icon={MapPin} label="Shop" value="104 Village Center Ln, Bozeman, MT 59718" />
-              <ContactRow icon={Clock} label="Hours" value="Mon – Thu 7AM–6PM · Fri – Sun closed" />
+              <ContactRow icon={Clock} label="Hours" value="Mon - Thu 7AM–6PM · Fri - Sun closed" />
             </div>
 
             <div className="mt-10 p-5 border border-border bg-card">

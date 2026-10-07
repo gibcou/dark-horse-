@@ -6,9 +6,9 @@ const LOGO =
   "https://irp.cdn-website.com/09b6c26d/dms3rep/multi/Dark+Horse+Outfitters+logo+horizontal.svg";
 
 const hours = [
-  { d: "Mon – Thu", h: "7:00 AM – 6:00 PM" },
+  { d: "Mon - Thu", h: "7:00 AM - 6:00 PM" },
   { d: "Fri", h: "Closed" },
-  { d: "Sat – Sun", h: "Closed" },
+  { d: "Sat - Sun", h: "Closed" },
 ];
 
 export default function SiteFooter() {

@@ -53,7 +53,7 @@ export default function WhyUs() {
             <div className="absolute -bottom-5 -right-2 sm:-right-5 bg-primary text-primary-foreground px-5 py-4">
               <p className="font-display text-2xl font-black leading-none">MON-THU</p>
               <p className="text-[10px] font-mono uppercase tracking-widest mt-1 opacity-80">
-                7:00 AM – 6:00 PM
+                7:00 AM - 6:00 PM
               </p>
             </div>
           </Reveal3D>
