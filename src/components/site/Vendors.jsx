@@ -44,7 +44,7 @@ export default function Vendors() {
             Parts we trust
           </h2>
           <p className="mt-3 max-w-xl mx-auto text-muted-foreground leading-relaxed text-sm">
-            Our commitment to excellence is reflected in the brands we carry — only the
+            Our commitment to excellence is reflected in the brands we carry - only the
             finest products and parts make it onto your rig.
           </p>
         </div>

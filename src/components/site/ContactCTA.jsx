@@ -18,7 +18,7 @@ export default function ContactCTA() {
         </h2>
         <p className="mt-5 max-w-xl mx-auto text-muted-foreground leading-relaxed">
           Tell us about your truck and what you want it to do. We'll put together a build
-          plan and a quote — no pressure, no jargon.
+          plan and a quote - no pressure, no jargon.
         </p>
         <div className="mt-9 flex flex-col sm:flex-row items-center justify-center gap-3">
           <Link

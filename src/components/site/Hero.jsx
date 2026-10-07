@@ -52,7 +52,7 @@ export default function Hero() {
 
           <p className="mt-6 max-w-xl text-base sm:text-lg text-muted-foreground leading-relaxed">
             Montana's premier truck outfitting business. Lifts, armor, plows, toppers,
-            lighting and off-road accessories — your place in the valley to outfit your
+            lighting and off-road accessories - your place in the valley to outfit your
             rig right.
           </p>
 

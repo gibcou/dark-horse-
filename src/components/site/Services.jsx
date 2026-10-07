@@ -29,7 +29,7 @@ const services = [
     icon: Package,
     code: "DHO-03",
     title: "Truck Toppers",
-    desc: "Five premium brands of truck toppers and tonneaus — cab-high, mid-rise, and full-height to match how you work and play.",
+    desc: "Five premium brands of truck toppers and tonneaus - cab-high, mid-rise, and full-height to match how you work and play.",
   },
   {
     icon: Snowflake,
@@ -41,7 +41,7 @@ const services = [
     icon: Lightbulb,
     code: "DHO-05",
     title: "Lighting",
-    desc: "Light bars, pods, and scene lighting from the brands that matter — aimed, fused, and switched the right way.",
+    desc: "Light bars, pods, and scene lighting from the brands that matter - aimed, fused, and switched the right way.",
   },
   {
     icon: Tent,
@@ -53,7 +53,7 @@ const services = [
     icon: Wrench,
     code: "DHO-07",
     title: "Off-Road Accessories",
-    desc: "Winches, recovery gear, fender flares, wheels and tires — the details that turn a truck into a build.",
+    desc: "Winches, recovery gear, fender flares, wheels and tires - the details that turn a truck into a build.",
   },
 ];
 
@@ -72,7 +72,7 @@ export default function Services() {
           </div>
           <p className="max-w-md text-muted-foreground leading-relaxed">
             Your place in the valley for premier vehicle parts and accessories. We outfit
-            your truck and bring your ideas to life — function first, always.
+            your truck and bring your ideas to life - function first, always.
           </p>
         </div>
 
@@ -120,7 +120,7 @@ export default function Services() {
                 Full Custom Build
               </h3>
               <p className="text-sm opacity-90 leading-relaxed">
-                Not sure where to start? Tell us your rig and your goals — we'll spec the
+                Not sure where to start? Tell us your rig and your goals - we'll spec the
                 whole build.
               </p>
               <span className="mt-5 inline-flex items-center gap-1.5 text-xs font-mono uppercase tracking-widest">

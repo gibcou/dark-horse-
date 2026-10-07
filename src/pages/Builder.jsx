@@ -21,7 +21,7 @@ export default function Builder() {
               Build your <span className="text-primary">rig.</span>
             </h1>
             <p className="mt-4 max-w-xl mx-auto text-muted-foreground leading-relaxed">
-              Spec it exactly how you want it — spin the rig in 3D, watch it change, then send the
+              Spec it exactly how you want it - spin the rig in 3D, watch it change, then send the
               build sheet to the team and we'll follow up with a real quote.
             </p>
           </div>

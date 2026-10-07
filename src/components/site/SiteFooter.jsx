@@ -19,7 +19,7 @@ export default function SiteFooter() {
           <div className="lg:col-span-1">
             <img src={LOGO} alt="Dark Horse Outfitters" className="h-11 w-auto mb-4" />
             <p className="text-sm text-muted-foreground leading-relaxed max-w-xs">
-              Montana's premier truck outfitting business — your place in the valley for
+              Montana's premier truck outfitting business - your place in the valley for
               premier vehicle parts and accessories.
             </p>
             <div className="flex items-center gap-3 mt-5">

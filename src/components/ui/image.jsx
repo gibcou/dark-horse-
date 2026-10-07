@@ -63,7 +63,7 @@ const Image = React.forwardRef(
     }
 
     if (!src) {
-      // Renders as a real <img> (not a <div>) — the visual editor's
+      // Renders as a real <img> (not a <div>) - the visual editor's
       // click-to-edit toolbar keys its "Replace Image" action off the DOM
       // tag being `img`, so a placeholder div would be unrecoverable in the
       // editor. FALLBACK_IMAGE_URL doubles as the "no image chosen" graphic.

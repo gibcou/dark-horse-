@@ -106,7 +106,7 @@ export default function Work() {
               Recent <span className="text-primary">builds.</span>
             </h1>
             <p className="mt-4 max-w-xl text-muted-foreground leading-relaxed">
-              A look at the rigs we've outfitted — from install day on the lift to the
+              A look at the rigs we've outfitted - from install day on the lift to the
               day they drive out the door.
             </p>
           </motion.div>

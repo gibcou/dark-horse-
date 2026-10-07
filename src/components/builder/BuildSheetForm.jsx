@@ -84,7 +84,7 @@ export default function BuildSheetForm({ build }) {
         {sending ? "Sending build sheet..." : "Send this build to the team"}
       </button>
       <p className="mt-3 text-xs text-muted-foreground">
-        No payment now — this sends your build sheet to the shop, and the team follows up with a quote.
+        No payment now - this sends your build sheet to the shop, and the team follows up with a quote.
       </p>
     </form>
   );

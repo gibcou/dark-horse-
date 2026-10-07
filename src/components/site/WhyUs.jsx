@@ -10,7 +10,7 @@ const points = [
   {
     icon: Hammer,
     title: "Custom Fabrication",
-    desc: "A one-of-a-kind fab facility for classic, custom, and modern trucks — if it doesn't exist, we build it.",
+    desc: "A one-of-a-kind fab facility for classic, custom, and modern trucks - if it doesn't exist, we build it.",
   },
   {
     icon: ShieldCheck,
@@ -51,7 +51,7 @@ export default function WhyUs() {
               <div className="absolute inset-0 bg-gradient-to-t from-background/60 to-transparent" />
             </div>
             <div className="absolute -bottom-5 -right-2 sm:-right-5 bg-primary text-primary-foreground px-5 py-4">
-              <p className="font-display text-2xl font-black leading-none">MON–THU</p>
+              <p className="font-display text-2xl font-black leading-none">MON-THU</p>
               <p className="text-[10px] font-mono uppercase tracking-widest mt-1 opacity-80">
                 7:00 AM – 6:00 PM
               </p>
@@ -68,7 +68,7 @@ export default function WhyUs() {
             <p className="text-muted-foreground leading-relaxed mb-8">
               Dark Horse Outfitters is a full custom vehicle facility with an affordable
               array of transformation services. We're gearheads who actually use the
-              trucks we build — so we know what holds up and what doesn't.
+              trucks we build - so we know what holds up and what doesn't.
             </p>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-px bg-border border border-border">
